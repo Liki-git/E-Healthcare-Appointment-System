@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360" preserveAspectRatio="xMidYMid meet">
+  <rect width="100%" height="100%" fill="#e6eef2" />
+  <g transform="translate(40,40)" fill="#0b1a2b" font-family="Arial, Helvetica, sans-serif">
+    <text x="0" y="40" font-size="28" font-weight="700">E-Healthcare</text>
+    <text x="0" y="80" font-size="18" fill="#475569">Appointment booking</text>
+  </g>
+  <g transform="translate(360,40)" fill="#0284c7">
+    <rect x="0" y="0" width="200" height="120" rx="10" fill="#0284c7" opacity="0.12" />
+    <circle cx="100" cy="70" r="30" fill="#0284c7" opacity="0.18" />
+  </g>
+  <text x="300" y="320" font-size="12" fill="#94a3b8" text-anchor="middle">local placeholder image</text>
+</svg>
