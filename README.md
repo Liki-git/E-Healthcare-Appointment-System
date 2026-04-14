@@ -2,7 +2,6 @@
 
 A simple Flask-based web application that allows users to register, login, view doctors, and book or cancel healthcare appointments.
 
-This project is intended for learning and demonstration purposes.
 
 ---
 
